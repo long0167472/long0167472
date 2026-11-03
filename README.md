@@ -1,38 +1,42 @@
 <div align="center">
 
-  <!-- Header Banner -->
+  <!-- Header Banner sống động -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:111827,100:1e293b&height=220&section=header&text=Pham%20Long&fontSize=52&fontAlignY=36&fontColor=38bdf8&desc=Software%20Engineer%20%7C%20Backend%20Specialist&descAlignY=58&descAlign=50&descColor=94a3b8" width="100%"/>
 
-  <!-- Hiệu ứng gõ phím Terminal sống động -->
+  <!-- Hiệu ứng gõ phím Terminal nhảy chữ liên tục -->
   <a href="https://github.com/long0167472">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&height=45&lines=%3E+Backend+Engineer+%7C+Java+%26+Spring+Boot;%3E+Specialized+in+High-Concurrency+%26+WebSocket;%3E+Focused+on+System+Reliability+%26+Low+Blast-Radius;%3E+Automating+Pipelines+with+Python+%26+AI" alt="Typing SVG" />
   </a>
 
   <br/>
 
-  <!-- Quick Badges -->
+  <!-- Bộ Badge trạng thái & Bộ đếm lượt xem Profile thời gian thực -->
   <a href="mailto:hoanglong7374@gmail.com">
     <img src="https://img.shields.io/badge/Email-hoanglong7374%40gmail.com-0284c7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/long0167472">
     <img src="https://img.shields.io/badge/Status-Available%20for%20Backend%20Projects-10b981?style=for-the-badge&logo=codeforces&logoColor=white" alt="Status"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Location-Vietnam%20(UTC%2B7)-64748b?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=long0167472&label=PROFILE%20VIEWS&color=38bdf8&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
----
+<br/>
 
-### 🎮 Contribution Heatmap • Game of Snake
-<!-- Hiệu ứng Game Con Rắn (Snake Game) bò qua và ăn chính các ô xanh commit của bạn -->
+<!-- Hiệu ứng Game Con Rắn (Snake) tự động bò ăn các ô commit xanh -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/long0167472/long0167472/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/long0167472/long0167472/output/github-contribution-grid-snake.svg">
     <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/long0167472/long0167472/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
+</div>
+
+<br/>
+
+<!-- Hiệu ứng Thành phố 3D Isometric từ toàn bộ dữ liệu commit -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/long0167472/long0167472/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Isometric Contribution City" width="100%"/>
 </div>
 
 ---
@@ -105,8 +109,8 @@
         <img src="https://streak-stats.demolab.com?user=long0167472&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" width="100%"/>
       </td>
       <td align="center" width="50%">
-        <!-- Thẻ thống kê tổng quan hoạt động -->
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=long0167472&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Stats" width="100%"/>
+        <!-- Thẻ thống kê tổng quan hoạt động (tính cả Private Repos) -->
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=long0167472&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Stats" width="100%"/>
       </td>
     </tr>
   </table>
