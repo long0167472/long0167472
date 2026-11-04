@@ -41,8 +41,11 @@ jobs:
 
       - name: Organize Visual Assets
         run: |
+          sudo chown -R $USER:$USER .
           mkdir -p dist/profile-3d-contrib
-          cp -r profile-3d-contrib/* dist/profile-3d-contrib/ || true
+          if [ -d "profile-3d-contrib" ]; then
+            cp -rf profile-3d-contrib/* dist/profile-3d-contrib/
+          fi
 
       # 3. Đẩy toàn bộ ảnh động vào nhánh output
       - name: Deploy Visuals to output branch
